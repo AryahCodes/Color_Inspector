@@ -35,8 +35,6 @@ Color_Inspector/
 │── video_loader.py
 │── logger.py
 │── config.py
-│── output/
-│── videos/
 ```
 
 ---
